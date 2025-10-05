@@ -67,3 +67,6 @@ CEM/
 └── .gitignore
 
 ```
+Lead login :
+ID - ABCD1234
+Password: 123456
